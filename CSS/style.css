@@ -1,24 +1,41 @@
-body{
-    background-image: url(56.jpg)
+.head{
+    background-color: green;
 }
-
-img{border-radius: 80%
+.foot{
+    background-color: rgb(70, 247, 123);
+} 
+.nama{
+    font-size: 22px;
+}
+.satu{
+    font-size: 20px;
+}
+.tengah1{
+    background-color: greenyellow;
+    padding-bottom: 15px;
+}
+.tengah2{
+    background-color: gold;
+    padding-bottom: 15px;
+}
+.gambar{
+    border-radius: 80%;
 }
 
 hr{
     border: 1px dashed white;
 }
 
-body{
-    color:rgb(255, 230, 0);
-}
-
 a{
     color: white;
 }
+
 a:link, a:hover {
     font-size: 25px;
     color: blue;
-    padding: 100px 50%;
+    padding-left: 40%;
     text-align: center; 
-  }
+}
+body{
+    background-color: green;
+}
